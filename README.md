@@ -5,16 +5,15 @@
 <a href="mailto://leonardo.chagas@pm.me">
   <img align="left" alt="Leonardo | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />
 </a>
-<br />
+<br /><br>
 
-Olá me chamo Leonardo, sou um desenvolvedor Full Stack, nascido e criado no Brasil 🇧🇷, Além da programação gosto de séries de ficção científica, comer, e viajar
+Olá me chamo Leonardo, sou um desenvolvedor Full Stack, nascido e criado no Brasil 🇧🇷, além da programação gosto de séries de ficção científica, comer, e viajar
 
   <img align="right" alt="GIF" src="https://github.com/leonardocoffee/leonardocoffee/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Falando sobre coisas pessoais:**
 
-- 👨🏽‍💻 Atualmente estou trabalhando em algo legal :wink:;
-- 🌱 Atualmente estou aprendendo Ruby
+- 👨🏽‍💻 Atualmente estou aprendendo Ruby
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 - 🔒 Eu respondo apenas no e-mail [leonardo.chagas@pm.me](mailto://leonardo.chagas@pm.me), e no [telegram](https://t.me/leonardocoffee) (apenas chat seguro).
 
