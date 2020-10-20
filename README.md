@@ -15,7 +15,7 @@ Olá me chamo Leonardo, sou um desenvolvedor Full Stack, nascido e criado no Bra
 
 - 👨🏽‍💻 Atualmente estou aprendendo Ruby
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
-- 🔒 Eu respondo apenas no e-mail [leonardo.chagas@pm.me](mailto://leonardo.chagas@pm.me), e no [telegram](https://t.me/leonardocoffee) (apenas chat seguro).
+- 🔒 Eu respondo apenas no e-mail [leonardo.chagas@pm.me](mailto://leonardo.chagas@pm.me), e no [telegram](https://t.me/leonardocoffee2) (apenas chat seguro).
 
 **Linguagens e ferramentas:**  
 
